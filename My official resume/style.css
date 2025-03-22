@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px #ccc;
+    border-radius: 8px;
+}
+h1, h2 {
+    color: #333;
+}
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.header h1 {
+    margin-bottom: 5px;
+}
+.contact-info {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+.contact-info li {
+    display: inline;
+    margin: 0 10px;
+}
+.section {
+    margin-bottom: 20px;
+}
+.section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+}
